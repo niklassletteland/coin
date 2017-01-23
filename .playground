@@ -1,0 +1,13 @@
+{
+  "project_name": "CØIN",
+  "project_description": "backend for CØIN virtual currencies utilities project (imaginary money)",
+  "show_files": [
+    "main.py",
+    "app.yaml",
+    "appengine_config.py"
+  ],
+  "read_only_files": [
+    "app.yaml"
+  ],
+  "download_filename": "imaginary_money.zip"
+}
